@@ -2,3 +2,6 @@
   border: 2px solid gainsboro;
   border-radius: 16px;
 }
+.activity h4 {
+  margin-top: 0;
+}
